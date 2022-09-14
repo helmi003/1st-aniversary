@@ -1,0 +1,59 @@
+img
+{
+	height:150;
+	width:250;
+	transition:0.5s;
+	border: 3px inset #4d0026;
+    box-shadow: 3px 3px 5px #000066;
+	margin-right:7;
+}
+
+body
+{
+  background-image: url("Background-Episodes.jpg");
+  background-repeat: no-repeat,repeat-x;
+  background-size: 100% 100%;
+  background-attachment:fixed;
+}
+
+a img:hover
+{
+	height:180;
+	width:300;
+}
+.div1
+{
+	margin-top:20;
+	display:flex;
+	margin-left:10%;
+}
+.div2
+{
+	margin:50;
+	display:flex;
+	margin-left:10%;
+}
+.div3
+{
+	margin:50;
+	display:flex;
+	margin-left:30%;
+}
+div
+{
+	text-align:center;
+	color:#b30000;
+	text-shadow: 3px 3px 5px #000066;
+}
+.butt2
+{
+	padding:10;
+}
+.butt
+{
+	background-color:red;
+	color:white;
+	padding:10;
+	font-size:20;
+	text-decoration: none;
+}

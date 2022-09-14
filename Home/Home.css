@@ -1,0 +1,58 @@
+body
+{
+  background-image: url("Background-Home.jpg");
+  background-repeat: no-repeat,repeat-x;
+  background-size: 100% 100%;
+  background-attachment:fixed;
+  overflow:hidden;
+}
+
+.nav-bar
+{
+	background-color:#800000;
+	height:56;
+}
+
+a:hover
+{
+	background-color:#cc2900;
+	color:white;
+	font-size:40;
+}
+a.home
+{
+	background-color:#800000;
+}
+.nav-bar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+.p2
+{
+	margin-left:50%;
+	margin-top:14%;
+}
+.p1
+{
+	padding:20;
+	width:500;
+	font-weight:bold;
+	font-size:20;
+}
+video
+{
+	width:400; 
+	height:250;
+	margin-right:3%;
+}
+.div-video
+{
+	float:right;
+	margin-top:15%;
+	margin-right:2%;
+}

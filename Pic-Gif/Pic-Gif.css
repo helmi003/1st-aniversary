@@ -1,0 +1,42 @@
+body
+{
+  background-image: url("Background-Pic-Gif.jpg");
+  background-repeat: no-repeat,repeat-x;
+  background-size: 100% 100%;
+  background-attachment:fixed;
+}
+.div1
+{
+	margin-top:20;
+	display:flex;
+	margin-left:2%;
+}
+img
+{
+	height:180;
+	width:300;
+	border: 3px inset #4d0026;
+    box-shadow: 3px 3px 5px #000066;
+	margin-right:20;
+}
+gif
+{
+	height:150;
+	width:250;
+	border: 3px inset #4d0026;
+    box-shadow: 3px 3px 5px #000066;
+	margin-right:20;
+}
+.butt2
+{
+	margin-left:47%;
+	padding:20;
+}
+.butt
+{
+	background-color:red;
+	color:white;
+	padding:10;
+	font-size:20;
+	text-decoration: none;
+}

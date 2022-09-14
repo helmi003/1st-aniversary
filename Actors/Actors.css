@@ -1,0 +1,52 @@
+span
+{
+	font-size:30;
+	color:#000033;
+	padding:10;
+}
+.p1
+{
+	font-size:20;
+	color:#b30000;
+	padding:7;
+	font-weight: 550;
+}
+img
+{
+	height:150;
+	width:120;
+}
+body
+{
+  background-image: url("Background-Actors.jpg");
+  background-repeat: no-repeat,repeat-x;
+  background-size: 100% 100%;
+  background-attachment:fixed;
+}
+.div1
+{
+	display:flex;
+	border: 3px inset #4d0026;
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px #000066;
+	margin:10;
+	height:200;
+}
+.div2
+{
+	margin:10;
+}
+.butt2
+{
+	padding:10;
+}
+.butt
+{
+	
+	background-color:red;
+	color:white;
+	padding:10;
+	font-size:20;
+	margin-left:47%;
+	text-decoration: none;
+}
